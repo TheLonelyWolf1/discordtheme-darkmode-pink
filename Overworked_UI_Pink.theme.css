@@ -516,6 +516,13 @@
 }
 /*------------------------------------------------------------------*/
 /*Users*/
+.root-SR8cQa{
+	border:1px solid #ff00e9;
+}
+.theme-dark .body-3ND3kc,
+.theme-dark .topSectionNormal-2-vo2m{
+	background-color:black;
+}
 .bd-blue .user-popout .header{
 	background:rgba(255, 0, 0, 0) !important;
 	border-bottom: solid 1px;
